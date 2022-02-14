@@ -1,0 +1,12 @@
+body {
+    background-color: #FFC0CB;
+}
+
+#result{
+    color: #FF0000;
+}
+
+#luz1, #luz2, #luz3, #luz4, #luz5, #luz6{
+    width: 6%;/*define a largura da imagem para 6% do tamanho da pagina*/
+    height: 20%;; /*altura é 20% da página*/
+}
